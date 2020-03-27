@@ -1,9 +1,7 @@
-counter = 0 
-while counter < 10 
-puts "Wingardium Leviosa"
-end  
+ def using_while 
+  levitation_force = 1
+while using_while == 10 
+  using_while += 1 
+  puts "Wingardium Leviosa"
+end 
 
-counter = 0 
-until counter < 10 
-puts "Wingardium Leviosa"
-end  
